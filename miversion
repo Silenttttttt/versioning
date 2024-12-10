@@ -1,7 +1,1 @@
-{
-    "settings": {
-        "option1": "value1",
-        "option2": "value2"
-    },
-    "init_script": "print('Initialization script executed')"
-}
+1.0.0
